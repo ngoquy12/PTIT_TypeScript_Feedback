@@ -1,0 +1,2 @@
+- Hàm map() sau khi lặp qua sẽ trả về một mảng mới, có số lượng phần tử bằng với số lượng phần tử
+của mảng nhưng được chỉnh sửa
